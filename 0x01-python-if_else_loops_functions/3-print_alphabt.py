@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-for char in range(97, 123):
-    if char != 101 and char !=113:
-        print("{:c}".format(char), end='')
+for x in range(97, 123):
+    if x != 101 and x !=113:
+        print("{:c}".format(x), end='')
